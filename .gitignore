@@ -8,9 +8,6 @@
 /lib/
 bin/
 
-# vvvv export
-export/
-
 # Other
 obj/
 .vs/
